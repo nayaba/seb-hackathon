@@ -1,4 +1,4 @@
-# <img src="https://d9hhrg4mnvzow.cloudfront.net/learn.generalassemb.ly/bahrain/793544b9-ga-cog_1000000000000000000028.png" style="height:1em; vertical-align:middle;" /> General Assembly SEB: Celebrating Innovation & Skill Development
+# <img src="https://d9hhrg4mnvzow.cloudfront.net/learn.generalassemb.ly/bahrain/793544b9-ga-cog_1000000000000000000028.png" style="height:1em; vertical-align:middle;" /> General Assembly Bahrain: Celebrating Innovation & Skill Development
 
 Welcome to the official page for the **General Assembly SEB Hackathon**, hosted by the talented students of the **Software Engineering Part-Time Bootcamp** in Bahrain. This event showcased creativity, determination, and technical skills as students built browser-based games using **HTML**, **CSS**, and **JavaScript**.
 
