@@ -25,9 +25,8 @@ The hackathon included several competitive categories to celebrate student achie
 - **Creativity**: Recognizing unique twists and imaginative game features.
 - **User Interface (UI)**: Highlighting clean, visually appealing designs and intuitive gameplay.
 - **Code Organization**: Rewarding readable, well-structured, and efficient code.
-- **Functionality**: Ensuring the game runs smoothly and all features work as intended.
 - **Player Experience**: Celebrating games that provide an enjoyable and seamless user experience.
-- **Best Overall Game**: Awarded to the game that excels across all categories.
+- **Presentation**: Awarded to the developer with the most engaging presentation.
 
 ---
 
@@ -60,7 +59,7 @@ Each game is a testament to the skills students developed during the bootcamp an
 
 We are thrilled to highlight the outstanding work of our hackathon winners! These students demonstrated exceptional creativity, technical skill, and determination.
 
-### 🏆 Best Overall Game
+### 🏆 Best User Interface
 **[Student Name]**  
 Project: *"Dynamic Tamagotchi Adventure"*  
 
@@ -76,11 +75,13 @@ Project: *"Tamagotchi Timekeeper"*
 **[Student Name]**  
 Project: *"Tic Tac Toe Extreme"*  
 
+### 🤓 Most Engaging Presentation
+**[Student Name]**  
+Project: *"Tic Tac Toe Extreme"*  
+
 ### 🌟 Special Recognition: Double Submission
 **[Student Name]**  
 Projects: *"Tamagotchi Glow Up"* and *"Tic Tac Toe Classic+"*  
-
-Congratulations to all our winners and participants for their incredible work!
 
 ---
 
