@@ -55,9 +55,11 @@ Each game is a testament to the skills students developed during the bootcamp an
 
 ---
 
-## 🎉 2024 Winners
+## 🎉 2024 Winners 
 
-We are thrilled to highlight the outstanding work of our hackathon winners! These students demonstrated exceptional creativity, technical skill, and determination.
+We are thrilled to highlight the outstanding work of our hackathon winners! These students demonstrated exceptional creativity, technical skill, and determination, and receive the honor of using an official Winner's Badge on their own sites: 
+
+<a href="https://nayaba.github.io/seb-hackathon/"><img src="https://img.shields.io/badge/Winner-GA_SEB_Hackathon-crimson"></a>
 
 ### 🏆 Best User Interface
 **[Student Name]**  
